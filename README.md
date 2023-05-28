@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PyTorch, Numpy, Pandas, Machine Learning Math**
 
-- 📫 How to reach me **shoumikgandre@gmail.com**
+- 📫 How to reach me **&lt;firstname&gt;&lt;lastname&gt;[at]gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
