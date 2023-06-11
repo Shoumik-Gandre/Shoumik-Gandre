@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shoumik Atul Gandre</h1>
 <h3 align="center">A passionate Artificial Intelligence Developer</h3>
 
-- 🌱 I’m currently learning **Transformers**
+- 🌱 I’m currently learning **Dataset Distillation**
 
-- 💬 Ask me about **PyTorch, Numpy, Pandas, Machine Learning Math**
+- 💬 Ask me about **PyTorch, Numpy, Pandas, Machine Learning Math, Deep Learning**
 
 - 📫 How to reach me **&lt;firstname&gt;&lt;lastname&gt;[at]gmail.com**
 
