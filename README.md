@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoumik Atul Gandre</h1>
+<h1 align="center">Hi 👋, I'm Shoumik Gandre</h1>
 <h3 align="center">A passionate Artificial Intelligence Developer</h3>
 
 - 🌱 I’m currently learning **Dataset Distillation**
